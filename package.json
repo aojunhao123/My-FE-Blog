@@ -8,9 +8,14 @@
     "preview": "rspress preview"
   },
   "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "rspress": "1.16.2"
   },
   "devDependencies": {
-    "@types/node": "^16"
+    "@rsbuild/core": "^0.5.7",
+    "@types/node": "^16",
+    "@types/react": "^18.2.74",
+    "tailwindcss": "^3.4.3"
   }
 }

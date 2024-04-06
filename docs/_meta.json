@@ -1,16 +1,19 @@
 [
   {
-    "text": "Guide",
+    "text": "Blog",
     "link": "/guide/",
-    "activeMatch": "/guide/"
+    "activeMatch": "/guide/",
+    "tag": "/book.svg"
   },
   {
-    "text": "Hello World",
+    "text": "About",
     "link": "/hello/",
-    "activeMatch": "/hello/"
+    "activeMatch": "/hello/",
+    "tag": "/person.svg"
   },
   {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "Projects",
+    "link": "https://rspress.dev/api/index.html",
+    "tag": "/project.svg"
   }
 ]

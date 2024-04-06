@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 -6 32 32" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <g transform="scale(0.6)">
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#668077" d="m13,9l14,0l0,-4l-14,0l0,4zm14,-8l0,4l-14,0l-6,0l0,4c0,0 -4,0 -4,-4c0,-4 4,-4 4,-4l20,0z"/>
+  <path id="svg_2" fill="#FFE6EA" d="m13,9l0,8l-3,-2l-3,2l0,-8l0,-4l6,0l0,4z"/>
+  <path id="svg_3" fill="#FFC44D" d="m29,10l0,20c0,0 0,1 -1,1l-24,0c0,0 -1,0 -1,-1l0,-25c0,4 4,4 4,4l0,8l3,-2l3,2l0,-8l14,0l1,0c0,0 1,0 1,1z" clip-rule="evenodd" fill-rule="evenodd"/>
+  <path id="svg_4" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#000000" d="m13,9l15,0c0,0 1,0 1,1l0,20c0,0 0,1 -1,1l-24,0c0,0 -1,0 -1,-1l0,-25m0,0c0,-4 4,-4 4,-4l22,0m-26,4c0,4 4,4 4,4m0,-4l0,12l3,-2l3,2l0,-12l14,0"/>
+ </g>
+</svg>
