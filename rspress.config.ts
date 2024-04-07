@@ -3,11 +3,9 @@ import { defineConfig } from "rspress/config";
 
 export default defineConfig({
   root: path.join(__dirname, "docs"),
-  route: {
-    exclude: ["./docs/blog/asset/**/*"],
-  },
   title: "ajh's Blog",
   icon: "/fufu.jpeg",
+  base: "./",
   description: "FE Blog Powered by Rspress",
   themeConfig: {
     socialLinks: [
