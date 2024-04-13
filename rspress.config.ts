@@ -3,9 +3,9 @@ import { defineConfig } from "rspress/config";
 
 export default defineConfig({
   root: path.join(__dirname, "docs"),
+  base: "/ajh-blog/",
   title: "ajh's Blog",
   icon: "/fufu.jpeg",
-  base: "./",
   description: "FE Blog Powered by Rspress",
   themeConfig: {
     socialLinks: [
@@ -18,5 +18,9 @@ export default defineConfig({
     outlineTitle: "目录",
   },
   globalStyles: path.join(__dirname, "./docs/global.css"),
-  builderConfig: {},
+  builderConfig: {
+    output: {
+      assetPrefix: "/ajh-blog/",
+    }
+  },
 });
