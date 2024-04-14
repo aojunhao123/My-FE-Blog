@@ -3,17 +3,17 @@
     "text": "Blog",
     "link": "/guide/",
     "activeMatch": "/guide/",
-    "tag": "/book.svg"
+    "tag": "/My-FE-Blog/book.svg"
   },
   {
     "text": "About",
     "link": "/hello/",
     "activeMatch": "/hello/",
-    "tag": "/person.svg"
+    "tag": "/My-FE-Blog/person.svg"
   },
   {
     "text": "Projects",
     "link": "https://rspress.dev/api/index.html",
-    "tag": "/project.svg"
+    "tag": "/My-FE-Blog/project.svg"
   }
 ]
