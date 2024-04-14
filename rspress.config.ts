@@ -16,6 +16,9 @@ export default defineConfig({
       },
     ],
     outlineTitle: "目录",
+    lastUpdated: true,
+    lastUpdatedText: "📝 Last Updated",
+    enableScrollToTop: true,
   },
   globalStyles: path.join(__dirname, "./docs/global.css"),
   builderConfig: {

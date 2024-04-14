@@ -1,0 +1,23 @@
+[
+    {
+        "type": "dir",
+        "name": "HTML",
+        "label": "HTML",
+        "collapsible": true,
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "CSS",
+        "label": "CSS",
+        "collapsible": true,
+        "collapsed": true
+    },
+    {
+        "type": "dir",
+        "name": "JavaScript",
+        "label": "JavaScript",
+        "collapsible": true,
+        "collapsed": true
+    }
+]
