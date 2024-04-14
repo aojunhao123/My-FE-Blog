@@ -3,7 +3,7 @@ import { defineConfig } from "rspress/config";
 
 export default defineConfig({
   root: path.join(__dirname, "docs"),
-  base: "/ajh-blog/",
+  base: "/My-FE-Blog/",
   title: "ajh's Blog",
   icon: "/fufu.jpeg",
   description: "FE Blog Powered by Rspress",
@@ -20,7 +20,7 @@ export default defineConfig({
   globalStyles: path.join(__dirname, "./docs/global.css"),
   builderConfig: {
     output: {
-      assetPrefix: "/ajh-blog/",
-    }
+      assetPrefix: "https://aojunhao123.github.io/My-FE-Blog/",
+    },
   },
 });
